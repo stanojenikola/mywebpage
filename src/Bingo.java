@@ -15,7 +15,7 @@ public class Bingo extends Thread{
 		bubanj = new Bubanj(min, max);
 		this.brojeva = brojeva;
 	}
-	
+	//git
 	
 	public synchronized Listic noviListic() throws Exception {
 		
