@@ -17,6 +17,7 @@ public class Bingo extends Thread{
 	}
 	//git
 	//git 2
+	//git 3
 	public synchronized Listic noviListic() throws Exception {
 		
 		if(uToku) throw new Exception();
