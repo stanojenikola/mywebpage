@@ -16,7 +16,7 @@ public class Bingo extends Thread{
 		this.brojeva = brojeva;
 	}
 	//git
-	//git 2
+	//git 2r
 	//git 3
 	public synchronized Listic noviListic() throws Exception {
 		
